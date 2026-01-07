@@ -1,3 +1,7 @@
+Aquí tenemos más ejercicios de Kotlin para trabajar en clase.
+
+Fuente original: https://github.com/develatter/KotlinPractice
+
 ### 1. Positivo y negativo
 Leer un número por teclado mediante un método, y decir si es positivo o negativo con otro método. La salida por consola puede ser algo así como: "el número X es positivo"
 
